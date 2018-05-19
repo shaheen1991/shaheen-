@@ -372,6 +372,9 @@ nav {
     margin-right: auto;
     width: 100%;
   }
+  .auth-image {
+    width: 100%;
+  }
   #logo {
     width: 100%;
   }
